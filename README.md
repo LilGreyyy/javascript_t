@@ -1,1 +1,1 @@
-# javascript_t
+# javascript_tutorial
